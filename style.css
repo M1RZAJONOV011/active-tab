@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(8, 70, 71);
+
+}
+h1{
+    color:green;
+    text-align:center ;
+}
+div{
+    background-color:rgb(69, 61, 61);
+    width: 380px;
+    height: 60px;
+    margin: 0 auto;
+    border-radius: none;
+}
+button:hover{
+    text-align: center;
+    cursor: pointer;
+    background-color:green;
+    border-radius: 20px;
+    border: none;
+}
+button:active{
+    background-color: rgb(129, 169, 129);
+    border:10px;
+}
+button{
+    border-radius: 5px;
+    text-shadow: none; 
+}
